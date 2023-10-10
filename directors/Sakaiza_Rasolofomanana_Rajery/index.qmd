@@ -1,0 +1,14 @@
+---
+title: "Sakaiza Rasolofomanana Rajery (Program Manager)"
+subtitle: |
+   <font color="#9900FF"><u><b><a href=https://audreyhendricks.com/authors/sakaizarasolofomanana-rajery/>Website</a> </b></u></font> 
+categories: [Manager, AMC]
+description: |
+   Sakaiza is a Research Assistant with the Hendricks Research Team. She has a keen interest in the application of statistical methods on biomedical data to better population health in diverse communities. Her work focuses on developing statistical pipelines to detect associations between diet and health using metabolomics data. 
+     
+image: "Image.png"
+---
+
+<!-- ## About -->
+
+<!-- Sakaiza has a keen interest in the application of statistical methods on biomedical data to better population health in diverse communities. Her work with the Hendricks research team focuses on developing statistical pipelines to detect associations between diet and health using metabolomics data. -->

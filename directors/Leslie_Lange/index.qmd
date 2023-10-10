@@ -1,0 +1,13 @@
+---
+title: "Leslie Lange, PhD"
+subtitle: |
+   <font color="#9900FF"><u><b><a href=https://profiles.ucdenver.edu/display/12755888>Website</a> </b></u></font> 
+categories: [Director,AMC]
+description: |
+  Dr. Lange’s research focuses on the genetic epidemiology of complex traits, primarily regarding cardiovascular disease, obesity, diabetes and pulmonary related phenotypes. Particular areas of focus include genetics studies in understudied minorities and facilitating large multi-study genetic collaborations. She is currently involved in several genetic consortia, including the Trans-Omics for Precision Medicine (TOPMed) Program, the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) and Accelerating Medicines Partnership for Type 2 Diabetes (AMP T2D). She is a co-investigator in the Jackson Heart Study (JHS), a longitudinal study of African Americans from Jackson, MS, and I co-lead the JHS Genetics committee. She also works with data from a number of other studies, including the Cardiovascular Health Study (CHS), Multi-Ethnic Study of Atherosclerosis (MESA), and the REasons for Geographic and Racial Differences in Stroke (REGARDS) study.
+
+image: "Image.png"
+---
+
+<!-- ## About  -->
+<!-- Dr. Lange’s research focuses on the genetic epidemiology of complex traits, primarily regarding cardiovascular disease, obesity, diabetes and pulmonary related phenotypes. Particular areas of focus include genetics studies in understudied minorities and facilitating large multi-study genetic collaborations. She is currently involved in several genetic consortia, including the Trans-Omics for Precision Medicine (TOPMed) Program, the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) and Accelerating Medicines Partnership for Type 2 Diabetes (AMP T2D). She is a co-investigator in the Jackson Heart Study (JHS), a longitudinal study of African Americans from Jackson, MS, and I co-lead the JHS Genetics committee. She also works with data from a number of other studies, including the Cardiovascular Health Study (CHS), Multi-Ethnic Study of Atherosclerosis (MESA), and the REasons for Geographic and Racial Differences in Stroke (REGARDS) study. -->

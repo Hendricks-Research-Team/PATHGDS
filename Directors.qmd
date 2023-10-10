@@ -1,0 +1,22 @@
+---
+format:
+  html:
+    page-layout: full
+title: "Directors"
+listing:
+  contents: directors
+  feed: true
+  sort-ui: true
+  sort: 
+    - "title asc"
+  type: default
+  image-height: 250px
+  image-align: "left"
+  image-placeholder: "themockup.png"
+  fields: [image, title, subtitle, description]
+  categories: true
+  page-size: 9
+toc: false
+toc-location: body
+title-block-banner: false
+---

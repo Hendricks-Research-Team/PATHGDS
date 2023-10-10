@@ -1,0 +1,11 @@
+---
+title: "Souha Tifour"
+categories: [Statistics, UC Denver]
+description: |
+  Souha is a second-year MS student in Statistics at CU Denver. She completed her undergraduate studies in Mathematics at the University of Colorado Denver. Souha’s passion lies in the development and application of statistical models, particularly within the realm of genetics. By engaging in this field, she aspires to contribute to the advancement of scientific understanding of diseases and uncover potentially effective strategies for enhancing health. 
+
+image: "Image.png"
+---
+
+<!-- ## About  -->
+<!-- Souha is a second-year MS student in Statistics at CU Denver. She completed her undergraduate studies in Mathematics at the University of Colorado Denver. Souha’s passion lies in the development and application of statistical models, particularly within the realm of genetics. By engaging in this field, she aspires to contribute to the advancement of scientific understanding of diseases and uncover potentially effective strategies for enhancing health.  -->

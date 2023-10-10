@@ -1,0 +1,20 @@
+---
+title: "FACULTY MENTORS"
+listing:
+  contents: faculty_mentors
+  feed: true
+  sort-ui: true
+  sort: 
+    - "title desc"
+  type: default
+  image-height: 150px
+  image-align: "left"
+  image-placeholder: "themockup.png"
+  fields: [image, title, subtitle, description]
+  categories: true
+  page-size: 9
+toc: false
+toc-location: body
+page-layout: full
+title-block-banner: false
+---

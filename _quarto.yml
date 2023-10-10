@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "PATHways in Genomic Data Science"
+  favicon: "images/favicon/path_2.ico"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: Info.qmd
+        text: About
+      - href: Apply.qmd
+        text: Apply
+      - text: "Who we are"
+        menu: 
+          - Scholars.qmd
+          #- Faculty Mentors.qmd
+          - Directors.qmd
+  page-footer:
+    background: light
+    left: "" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+          
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,40 @@
+---
+title: "PATH-GDS Scholars"
+listing:
+  id: scholars_2024
+  contents: scholars/Scholars_2024
+  feed: true
+  sort-ui: true
+  sort: 
+    - "title desc"
+  type: default
+  image-height: 250px
+  image-align: "left"
+  image-placeholder: "themockup.png"
+  fields: [image, title, description]
+  categories: true
+  page-size: 9
+toc: false
+toc-location: body
+page-layout: full
+title-block-banner: false
+---
+
+::: whitebox
+::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
+::: {style="text-align: left;"}
+# 2024 Scholars
+
+::: {#scholars_2024}
+:::
+:::
+:::
+:::
+
+<!-- ::: whitebox -->
+<!-- ::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"} -->
+<!-- ::: {style="text-align: left;"} -->
+<!-- # 2023 Scholars -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->

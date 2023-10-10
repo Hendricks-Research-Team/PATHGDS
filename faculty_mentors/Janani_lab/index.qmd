@@ -1,0 +1,16 @@
+---
+title: "Ravi Janani, PhD"
+subtitle: |
+   <font color="#9900FF"><u><b><a href=https://jravilab.github.io/#about_group>Lab website</a> </b></u></font> 
+categories: [AMC, DryLab]
+description: |
+  Dr Ravi is an Assistant Professor at the University of Colorado Anschutz Medical Campus, Dept. of Biomedical Informatics, Center for Health Artificial Intelligence (with ties to Dept. of Immunology and Microbiology).
+
+image: "Image.png"
+---
+## Meet Dr Janani Ravi
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+
+## About the lab
+Dr Ravi completed her PhD in Computational Biology at Virginia Tech and postdoctoral research at the Public Health Research Institute, Rutgers Biomedical, and Health Sciences. She recently moved (Aug 2022) from the Depts. of Pathobiology & Diagnostic Investigation, Microbiology & Molecular Genetics, Michigan State University. The JRaviLab develops general-purpose computational approaches that integrate large-scale heterogeneous public datasets that lead to the mechanistic understanding of microbial genotypes, phenotypes, and diseases. Specifically, their research focuses on two key questions 1) How do we link microbial genotypes to phenotypic traits? 2) How do we delineate molecular mechanisms underlying host response to infection and discover host-directed therapeutics. The JRaviLab methods are generally pathogen- and disease-agnostic. Dr Ravi also actively engages in training, education, and outreach, and is committed to creating and sustaining a diverse and inclusive ecosystem in data science and R for learners and professionals alike, focusing on increasing the participation of underrepresented minorities in data science and R programming. Towards this effort, she founded R-Ladies East Lansing, R-Ladies Aurora and co-founded Women+ Data Science and AsiaR.

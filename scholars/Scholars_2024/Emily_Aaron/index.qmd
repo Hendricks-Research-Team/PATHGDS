@@ -1,0 +1,10 @@
+---
+title: "Emily Aaron"
+categories: [Statistics, UC Denver]
+description: |
+  Emily is a first year MS student in Statistics at CU Denver. Emily is from Colorado and did her undergraduate studies at MSU Denver in Mathematics and Biology. She is joining the program because she wants to be a biostatistician after earning her masters. As someone with a genetic illness, she hopes to use genomic data science to understand the complexity of DNA and its mishaps more. 
+image: "Image.png"
+---
+<!-- ## About -->
+
+<!-- Emily is a first year MS student in Statistics at CU Denver. Emily is from Colorado and did her undergraduate studies at MSU Denver in Mathematics and Biology. She is joining the program because she wants to be a biostatistician after earning her masters. As someone with a genetic illness, she hopes to use genomic data science to understand the complexity of DNA and its mishaps more.  -->
