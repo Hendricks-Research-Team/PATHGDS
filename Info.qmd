@@ -7,7 +7,9 @@ title: ""
 ::: {style="text-align: left;"}
 # What is PATH-GDS?
 
-PATH-GDS is a two-year program to introduce and train MS Statistics and MS Applied Mathematics students in genomics research. Our goal is to build an inclusive and representative set of genomic data scientists to foster retention of these scholars in academic and industry genomics pathways by:
+PATH-GDS is a two-year program to introduce and train CU Denver MS Statistics and MS Applied Mathematics students in genomics research. 
+
+Our inclusive and extensive training program builds academic and industry genomics pathways for genomics data scientists by:
 
 -   Training the scholars through coursework and rotations in genomics research
 
@@ -31,11 +33,11 @@ PATH-GDS offers resources to support its scholars throughout the pathway program
 
 -   Successful students will earn an MS in Statistics or Applied Mathematics in two years.
 
--   Coursework through the program includes 3 genomics electives (including a course on ethics in biomedical research).
+-   Coursework through the program includes 3 genomics research-related electives (including a course on ethics in biomedical research).
 
 -   Students will attend seminars and workshops in genomics, research, and professional skills Funding provided: \$25/hour for 15 hours of research during the academic year and 40 hrs/week during the summer
 
--   Tuition, fees, and healthcare insurance are covered by the program.
+-   In-state tuition (up to 15 credits per year), fees, and healthcare insurance (up to $1350 per semester) are covered by the program.
 
 -   Students will have the opportunity to attend a local or national conference Students will participate in rotations and research experiences in wet (laboratory based) and dry (computational) genomics labs
 

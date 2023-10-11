@@ -9,33 +9,31 @@ PATH-GDS aims to Recruit, train, and retain quantitative MS students including t
 
 Our pathway program is designed for students who meet the following criteria:
 
--   applying to an MS in Statistics/Applied math or similar program
--   Intend to pursue graduate studies in Colorado
--   Identify as a part of an underrepresented group
--   Interest in Genomics
--   US citizen or Permanent residents
+-   Are applying to the MS in Statistics or Applied Mathematics at CU Denver.
+-   Identify as a part of an underrepresented group (though this is not a disqualifying requirement).
+-   Interest in Genomics.
+-   US citizen or Permanent residents.
 
 # General requirement
 
 ### Intention to enroll into a Master Program
 
-In order to be considered for the PATH-GDS program, interested students need to first apply for a Masters in applied mathematics or statistics.
+In order to be considered for the PATH-GDS program, interested students need to first apply for a Masters in Statistics or Applied Mathematics at CU Denver.
 
 Please see MS programs that qualify for PATH-GDS programs below (other Masters Program in similar field in Colorado may also qualify for PATH-GDS):
 
 -   University of Colorado Denver, [MS in Applied Math](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/master-science-applied-mathematics)
 -   University of Colorado Denver, [MS in Statistics](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/master-science-statistics)
 
-Mention in your application that you are interested in being part of the PATH-GDS program during your Master studies.
+Mention in your application that you are interested in being part of the PATH-GDS program during your Master's studies.
 
 ### Written supplement
 
 You should also be ready to provide a 500-1000 words statement on:
 
--   Your interest in genomics and data science
--   How you intend to use the knowledge you will acquire from your master and the PATH GDS program
--   Obstacles you have encountered that made your current journey challenging (Could be related to your socio-economic background, your identity, your values, your health)
-
+-   Your interest in genomics and data science.
+-   How you intend to use the knowledge you will acquire from your master and the PATH GDS program.
+-   Obstacles you have encountered that made your current journey challenging (Could be related to your socio-economic background, your identity, your values, your health).
 
 # Application timeline:
 
@@ -48,4 +46,3 @@ You should also be ready to provide a 500-1000 words statement on:
 **March 15, 2024**: Final decision sent
 
 **May 2-24, 2024**: PATH-GDS retreat exact date TBD
-
