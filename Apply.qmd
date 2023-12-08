@@ -19,22 +19,31 @@ Our pathway program is designed for students who meet the following criteria:
 
 ### Intention to enroll into a Master Program
 
-In order to be considered for the PATH-GDS program, interested students need to first apply for a Masters in applied mathematics or statistics.
+In order to be considered for the PATH-GDS program, interested students need to first apply for a Masters in applied mathematics or statistics at CU Denver.
 
-Please see MS programs that qualify for PATH-GDS programs below:
+Please see MS programs that qualify for PATH-GDS programs below (Check the link for requirements, CU Denver application deadline, programs details):
 
 -   University of Colorado Denver, [MS in Applied Math](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/master-science-applied-mathematics)
 -   University of Colorado Denver, [MS in Statistics](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/master-science-statistics)
 
-Mention in your application that you are interested in being part of the PATH-GDS program during your Master studies.
+If you are ready to start your MS Application click on [**BEGIN APPLICATION**]{.underline} in the following link: \
+[LINK TO CU DENVER GRADUATE APPLICATION](https://ucdenver.edu/graduate-programs/admissions/)
+
+In your application respond "YES" to the question, **Are you interested in applying for the fully funded PATH-GDS Fellowship Program?**
+
+Then, submit your [*written supplement*]{.underline} in the space provided.
 
 ### Written supplement
 
-You should also be ready to provide a 500-1000 words statement on:
+You should be ready to provide a 500-1000 words statement answering the following questions:
 
--   Your interest in genomics and data science
--   How you intend to use the knowledge you will acquire from your master and the PATH GDS program
--   Obstacles you have encountered that made your current journey challenging (Could be related to your socio-economic background, your identity, your values, your health)
+-   Why are you interested in learning about data science and genomics?
+
+-   What do you hope to do after graduating from the program?
+
+-   What obstacles have shaped who you are today? (Could be related to your socio-economic background, your identity, your values, your health, etc.) 
+
+-   A primary aim of this program is to support inclusion and belonging in genomic data science for traditionally underrepresented groups. What does diversity, equity, and inclusion mean to you? Alternatively, how do you or have you worked to support diversity, equity, and inclusion in your life? 
 
 # Application timeline:
 
@@ -42,7 +51,7 @@ You should also be ready to provide a 500-1000 words statement on:
 
 **November 8 and 9, 2024:** Information session, please fill the [following form](https://forms.office.com/r/kLQw9QuD5n) to get more information on in-person/remote location, and time.
 
-**February 15, 2024**: Application close and interviews start
+**February 15, 2024**: PATH-GDS Application close and interviews start
 
 **March 15, 2024**: Final decision sent
 
