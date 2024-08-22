@@ -5,31 +5,33 @@ editor: visual
 
 # Eligibility for application to the PATH-GDS program:
 
-PATH-GDS aims to Recruit, train, and retain quantitative MS students including those from groups traditionally underrepresented in biomedical and genomics research.
-
-Our pathway program is designed for students who meet the following criteria:
-
--   applying to an MS in Statistics/Applied math or similar program
--   Intend to pursue graduate studies in Colorado
--   Identify as a part of an underrepresented group
--   Interest in Genomics
--   US citizen or Permanent residents
+PATH-GDS aims to recruit, train, and retain quantitative MS students in data science-focused biomedical and genomics research, with particular focus on individuals groups traditionally underrepresented gruops.
+ 
+Our pathway program is designed for students who:
+ 
+-   Apply to the MS in Statistics or Applied Mathematics degree programs at the University of Colorado Denver.
+-   Have interest in genetics and genomics.
+-   Are a US citizen or permanent resident.
+ 
+We encourage you to apply to the program even if you don’t have experience in genetics or genomics as long as you have interest in applying data science to biomedical, genetics, and genomics research.  
+ 
+We particularly encourage you to apply if you identify as a member of an underrepresented group (e.g., related to race, disability, gender, disadvantaged background, etc.).
 
 # General requirement
 
 ### Intention to enroll into a Master Program
 
-In order to be considered for the PATH-GDS program, interested students need to first apply for a Masters in applied mathematics or statistics at CU Denver.
+In order to be considered for the PATH-GDS program, interested students need to first apply to either the Master's program in Statistics or Applied Mathematics at CU Denver.
 
-Please see MS programs that qualify for PATH-GDS programs below (Check the link for requirements, CU Denver application deadline, programs details):
+The links below provide additional information related to requirements, deadline, program details, etc.:
 
 -   University of Colorado Denver, [MS in Applied Math](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/master-science-applied-mathematics)
 -   University of Colorado Denver, [MS in Statistics](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/master-science-statistics)
 
-If you are ready to start your MS Application click on [**BEGIN APPLICATION**]{.underline} in the following link:\
+If you are ready to start your MS Application, click [**BEGIN APPLICATION**]{.underline} in the following link:\
 [LINK TO CU DENVER GRADUATE APPLICATION](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/prospective-students)
 
-In your application respond "YES" to the question, **Are you interested in applying for the fully funded PATH-GDS Fellowship Program?**
+In your application, respond "YES" to the question: **Are you interested in applying for the fully funded PATH-GDS Fellowship Program?**
 
 Then, submit your [*written supplement*]{.underline} in the space provided.
 
@@ -38,9 +40,6 @@ Then, submit your [*written supplement*]{.underline} in the space provided.
 You should be ready to provide a 500-1000 words statement answering the following questions:
 
 -   Why are you interested in learning about data science and genomics?
-
 -   What do you hope to do after graduating from the program?
-
--   What obstacles have shaped who you are today? (Could be related to your socio-economic background, your identity, your values, your health, etc.)
-
--   A primary aim of this program is to support inclusion and belonging in genomic data science for traditionally underrepresented groups. What does diversity, equity, and inclusion mean to you? Alternatively, how do you or have you worked to support diversity, equity, and inclusion in your life?
+-   What obstacles have shaped who you are today? (This could be related to your socio-economic background, your identity, your values, your health, etc.)
+-   A primary aim of this program is to support inclusion and belonging in genomic data science for traditionally underrepresented groups. What does diversity, equity, and inclusion mean to you? Alternatively, how have you worked to support diversity, equity, and inclusion in your life?
