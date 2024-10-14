@@ -90,8 +90,7 @@ Emily is an MS student in Statistics at CU Denver. Emily is from Colorado and di
 :::
 
 ::: {.column width="70%"}
-Tristen is an MS student in Statistics. He is from Albuquerque New Mexico and did his undergrad at The University of New Mexico in statistics.  
-He joined PATH-GDS because the idea of applying what he is learning and getting a better idea of what he will do in his career is exciting. 
+Tristen is an MS student in Statistics. He is from Albuquerque New Mexico and did his undergrad at The University of New Mexico in statistics.  He joined PATH-GDS because the idea of applying what he is learning and getting a better idea of what he will do in his career is exciting. 
 :::
 :::
 
