@@ -1,0 +1,12 @@
+---
+title: "Niles Gilmore (Program Manager)"
+categories: [Manager, AMC]
+description: |
+   Niles is a Research Assistant in the Lange Lab and the Program Manager for the PATH-GDS Program. They are currently pursuing a Master of Public Health with a concentration in Community & Behavioral Health. They’re passionate about social determinants of health and their impacts on community health.  
+     
+image: "Image.png"
+---
+
+<!-- ## About -->
+
+<!-- Niles is a Research Assistant in the Lange Lab and the Program Manager for the PATH-GDS Program. They are currently pursuing a Master of Public Health with a concentration in Community & Behavioral Health. They’re passionate about social determinants of health and their impacts on community health.   -->
