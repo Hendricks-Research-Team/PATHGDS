@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/Directors.html",
-    "items": [
-      "/directors/Audrey_Hendricks/index.html",
-      "/directors/Joshua_French/index.html",
-      "/directors/Leslie_Lange/index.html",
-      "/directors/Niles_Gilmore/index.html"
-    ]
-  },
-  {
     "listing": "/Faculty Mentors.html",
     "items": [
       "/faculty_mentors/Janani_lab/index.html",
@@ -17,12 +8,12 @@
     ]
   },
   {
-    "listing": "/Scholars.html",
+    "listing": "/Directors.html",
     "items": [
-      "/scholars/Scholars_2024/Tristen_Orndorff/index.html",
-      "/scholars/Scholars_2024/Souha_Tifour/index.html",
-      "/scholars/Scholars_2024/Shane_Ridoux/index.html",
-      "/scholars/Scholars_2024/Emily_Aaron/index.html"
+      "/directors/Audrey_Hendricks/index.html",
+      "/directors/Joshua_French/index.html",
+      "/directors/Leslie_Lange/index.html",
+      "/directors/Niles_Gilmore/index.html"
     ]
   }
 ]
