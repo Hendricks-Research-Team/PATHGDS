@@ -5,19 +5,22 @@ title: ""
 ::: whitebox
 ::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
 ::: {style="text-align: left;"}
+
 # What is PATH-GDS?
 
 PATH-GDS is a two-year program to introduce and train MS Statistics and MS Applied Mathematics students in genomics research. Our goal is to build an inclusive and representative community of genomic data scientists to foster retention in academia and industry by:
 
--   Training the scholars through coursework and rotations in genomics research
+-   Training scholars through coursework and rotations in genomics research.
+    - Although scholars can take courses and complete rotations at both campuses, most coursework will be at CU Denver’s Downtown Campus and most rotations are offered at the CU Anschutz Medical Campus.
+    - Scholars will get to be part of the campus communities at both CU Denver and CU Anshutz!
 
--   Immersing scholars in a 17-month laboratory experience
+-   Immersing scholars in a 17-month laboratory experience.
 
 -   Exposing scholars to professional development through didactic seminars, panels, and workshops.
 
--   Preparing Scholars for future careers through soft skills training (eg: research communication, guidance for application in doctoral programs and industry positions)
+-   Preparing Scholars for future careers through soft skills training (eg: research communication, guidance for application in doctoral programs and industry positions).
 
--   Providing a strong community to help build scholars' identities as genomic data scientists
+-   Providing a strong community to help build scholars' identities as genomic data scientists.
 :::
 :::
 :::
@@ -39,11 +42,11 @@ PATH-GDS offers resources to support its scholars throughout the pathway program
 
 -   Tuition, fees, and healthcare insurance are covered by the program.
 
--   Students will have the opportunity to attend a local or national conference
+-   Students will have the opportunity to attend a local or national conference.
 
--   Students will participate in rotations and research experiences in wet (laboratory based) and dry (computational) genomics labs
+-   Students will participate in rotations and research experiences in wet (laboratory based) and dry (computational) genomics labs.
 
--   Students will gain mentorship experience as both the mentee and mentor
+-   Students will gain mentorship experience as both the mentee and mentor.
 :::
 :::
 :::

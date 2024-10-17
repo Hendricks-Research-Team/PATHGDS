@@ -13,6 +13,8 @@ Our pathway program is designed for students who:
 -   Have interest in genetics and genomics.
 -   Are a US citizen or permanent resident.
 
+Please note that most coursework will be at CU Denver’s Downtown Campus and most rotations are offered at the CU Anschutz Medical Campus.
+
 We encourage you to apply to the program even if you don’t have experience in genetics or genomics as long as you have interest in applying data science to biomedical, genetics, and genomics research.
 
 We particularly encourage you to apply if you identify as a member of an underrepresented group (e.g., related to race, disability, gender, disadvantaged background, etc.).
