@@ -2,84 +2,46 @@
 title: ""
 ---
 
-::: whitebox
-::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
-::: {style="text-align: left;"}
-
 # What is PATH-GDS?
 
 PATH-GDS is a two-year program to introduce and train MS Statistics and MS Applied Mathematics students in genomics research. Our goal is to build an inclusive and representative community of genomic data scientists to foster retention in academia and industry by:
 
--   Training scholars through coursework and rotations in genomics research.
+- Training scholars through coursework and rotations in genomics research.
     - Although scholars can take courses and complete rotations at both campuses, most coursework will be at CU Denver’s Downtown Campus and most rotations are offered at the CU Anschutz Medical Campus.
     - Scholars will get to be part of the campus communities at both CU Denver and CU Anshutz!
+- Immersing scholars in a 17-month laboratory experience.
+- Exposing scholars to professional development through didactic seminars, panels, and workshops.
+- Preparing scholars for future careers through soft skills training (e.g., research communication, guidance for application in doctoral programs and industry positions).
+- Providing a strong community to help build scholars' identities as genomic data scientists.
 
--   Immersing scholars in a 17-month laboratory experience.
-
--   Exposing scholars to professional development through didactic seminars, panels, and workshops.
-
--   Preparing Scholars for future careers through soft skills training (eg: research communication, guidance for application in doctoral programs and industry positions).
-
--   Providing a strong community to help build scholars' identities as genomic data scientists.
-:::
-:::
-:::
-
-::: whitebox
-::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
-::: {style="text-align: left;"}
-# What you will gain by being a PATH-GDS scholar:
+# What you will gain by being a PATH-GDS scholar?
 
 PATH-GDS offers resources to support its scholars throughout the pathway program:
 
--   Successful students will earn an MS in Statistics or Applied Mathematics in two years.
-
--   Coursework through the program includes 3 genomics electives (including a course on ethics in biomedical research).
-
--   Students will attend seminars and workshops in genomics, research, and professional skills
-
--   Funding provided: \$25/hour for 15 hours of research during the academic year and 40 hrs/week during the summer
-
--   Tuition, fees, and healthcare insurance are covered by the program.
-
--   Students will have the opportunity to attend a local or national conference.
-
--   Students will participate in rotations and research experiences in wet (laboratory based) and dry (computational) genomics labs.
-
--   Students will gain mentorship experience as both the mentee and mentor.
-:::
-:::
-:::
+- Successful students will earn an MS in Statistics or Applied Mathematics in two years.
+- Coursework through the program includes 3 genomics electives (including a course on ethics in biomedical research).
+- Students will attend seminars and workshops in genomics, research, and professional skills
+- Funding provided: \$25/hour for 15 hours of research during the academic year and 40 hrs/week during the summer.
+- In-state tuition and student fees are covered by the program.
+    - The Statistics and Applied Mathematics MS programs are part of WICHE, which allows students from selected states to receive in-state tuition even if they aren't Colorado residents. Currently, this includes residents of Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, North Dakota, Oregon, South Dakota, Utah, Washington, Wyoming, & U.S. Pacific Territories and Freely Associated States.
+- The program offers a $1,350 health insurance stipend for the Fall and Spring semesters.
+- Students will have the opportunity to attend a local or national conference.
+- Students will participate in rotations and research experiences in wet (laboratory based) and dry (computational) genomics labs.
+- Students will gain mentoring experience as both the mentee and mentor.
 
 If you would like to attend the information session (October 29th, 2024) or have any question about the program, please RSVP at [https://forms.office.com/r/FrZWX8qS4x](https://forms.office.com/r/FrZWX8qS4x)
 
-::: whitebox
-::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
-::: {style="text-align: left;"}
+# 2025-2026 Program Timeline
 
-# Program timeline 2025-2026:
-
-+---------------------------------+--------------------------------------+
-| Date\                           | Event                                |
-| *( Exact date will be updated)* |                                      |
-+=================================+======================================+
-| **Mid March 2025**              | Acceptance into the program          |
-+---------------------------------+--------------------------------------+
-| **May 2025**                    | PATH-GDS Retreat                     |
-+---------------------------------+--------------------------------------+
-| **Beginning August 2025**       | Orientation week                     |
-+---------------------------------+--------------------------------------+
-| **Mid August 2025**             | -   MS classes start (Year 1)        |
-|                                 | -   First 8-week lab rotation        |
-+---------------------------------+--------------------------------------+
-| **Mid October 2025**            | Second 8-week lab rotation           |
-+---------------------------------+--------------------------------------+
-| **Beginning January 2026**      | Third 8-week lab rotation            |
-+---------------------------------+--------------------------------------+
-| **Mid February 2026**           | Start of 17 month lab experience     |
-+---------------------------------+--------------------------------------+
-| **Mid May 2026**                | End of MS Year 1                     |
-+---------------------------------+--------------------------------------+
-:::
-:::
-:::
+| Date | Event |
+|---|---|
+| **February 15, 2025** | Applications Due |
+| **Mid March 2025** | Acceptance into the program |
+| **May 2025** | PATH-GDS Retreat |
+| **Beginning August 2025** | Orientation week |
+| **Mid August 2025** | - MS classes start (Year 1) |
+| | - First 8-week lab rotation |
+| **Mid October 2025** | Second 8-week lab rotation |
+| **Beginning January 2026** | Third 8-week lab rotation |
+| **Mid February 2026** | Start of 17-month lab experience |
+| **Mid May 2026** | End of MS Year 1 |
