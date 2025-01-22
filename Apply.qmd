@@ -44,4 +44,3 @@ You should be ready to provide a 500-1000 words statement answering the followin
 -   Why are you interested in learning about data science and genomics?
 -   What do you hope to do after graduating from the program?
 -   What obstacles have shaped who you are today? (This could be related to your socio-economic background, your identity, your values, your health, etc.)
--   A primary aim of this program is to support inclusion and belonging in genomic data science for traditionally underrepresented groups. What does diversity, equity, and inclusion mean to you? Alternatively, how have you worked to support diversity, equity, and inclusion in your life?
