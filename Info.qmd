@@ -4,7 +4,7 @@ title: ""
 
 # What is PATH-GDS?
 
-PATH-GDS is a two-year program to introduce and train MS Statistics and MS Applied Mathematics students in genomics research. Our goal is to build an inclusive and representative community of genomic data scientists to foster retention in academia and industry by:
+PATH-GDS is a two-year program to introduce and train MS Statistics and MS Applied Mathematics students in genomics research. Our goal is to introduce and train scholars in genomic data science to meet the increasing demands of a computationally and data driven genomics workforce by:
 
 - Training scholars through coursework and rotations in genomics research.
     - Although scholars can take courses and complete rotations at both campuses, most coursework will be at CU Denver’s Downtown Campus and most rotations are offered at the CU Anschutz Medical Campus.
@@ -12,7 +12,7 @@ PATH-GDS is a two-year program to introduce and train MS Statistics and MS Appli
 - Immersing scholars in a 17-month laboratory experience.
 - Exposing scholars to professional development through didactic seminars, panels, and workshops.
 - Preparing scholars for future careers through soft skills training (e.g., research communication, guidance for application in doctoral programs and industry positions).
-- Providing a strong community to help build scholars' identities as genomic data scientists.
+- Providing a strong community to help retain scholars' as genomic data scientists (including industry as well as academia).
 
 # What you will gain by being a PATH-GDS scholar?
 
