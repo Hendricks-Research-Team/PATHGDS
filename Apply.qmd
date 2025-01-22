@@ -17,7 +17,7 @@ Please note that most coursework will be at CU Denver’s Downtown Campus and mo
 
 We encourage you to apply to the program even if you don’t have experience in genetics or genomics as long as you have interest in applying data science to biomedical, genetics, and genomics research.
 
-We particularly encourage you to apply if you identify as a member of an underrepresented group (e.g., related to race, disability, gender, disadvantaged background, etc.).
+We particularly encourage you to apply if you have had limited opportunities to learn about statistics and genomics in the past. 
 
 # General requirement
 
