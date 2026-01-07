@@ -1,0 +1,104 @@
+---
+title: "Frequently asked questions"
+sidebar: false
+---
+  
+### How can I apply?
+
+Please see the [Apply](https://hendricks-research-team.github.io/PATHGDS/Apply.html) section of our website.
+
+### Can international undergraduate students who currently study in the USA participate in PATH-GDS? 
+
+Unfortunately, no. PATH-GDS scholars must be U.S. citizens or permanent residents.
+
+### Can non-Colorado/non-WICHE students apply?
+
+Yes! The program can only pay for in-state/WICHE tuition costs, but out-of-state students can pay the difference between in-state and out-of-state tuition their first year. A student who plans ahead can become a Colorado resident prior to their second year in the program.
+
+### Are there any program requirements related to minimum GPA, language test, etc.
+
+Applicants must meet the requirements for admittance into the [MS in Statistics](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/master-science-statistics) or [MS in Applied Mathematics](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/master-science-applied-mathematics
+). However, please let us know if you do not meet one of these requirements and we may be able to work with you.
+
+### Is there a separate application for admission?
+
+There are additional questions within the application. More information can be found on the [Apply](https://hendricks-research-team.github.io/PATHGDS/Apply.html) section of our website.
+
+### Will this opportunity be available in the future?
+
+Yes, we plan to have PATH-GDS scholars start in Fall 2025, 2026, and 2027.
+
+### I’m currently a junior at CU Denver. Is this a program I can apply to as part of the 4+1 MS Stats degree? Or will it be available for me to apply to next year?
+
+Yes, you can apply for this program as a junior. Please contact Joshua French for more
+information.
+
+### Is the program in person or virtual?
+
+This program is in person.
+
+### Is there any specific focus outside of data science and genomics?
+
+A student’s research should lie at the intersection of data science and genomics only.
+
+### Will the cost of relocation be paid for out-of-state students?
+
+Relocation costs to Colorado is not covered.
+
+### Is this only for master’s students? I’m an undergraduate, but I’m very interested in applying for the program.
+
+This program is for people who would like to get an MS in Statistics or Applied Mathematics. We
+recommend undergraduates apply the year they plan to graduate.
+
+### How will the students be selected for the program?
+
+Students are initially selected after their admission to either the Statistics or Applied Mathematics MS program and using the additional questions for the PATH-GDS program. We will then have supplemental virtual interviews for the top
+applicants before making our offers.
+
+### I would like to know more about the laboratory-based research activity.
+
+Scholars complete three 8-week rotations with faculty at the Downtown or Anschutz Medical Campus. At least one rotation is in a wet lab (think lab coat, pipets, microscopes) and at least one
+rotation is in a dry lab (think on a computer). The research within each lab depends on the interests of the faculty mentor. Some examples include Type 1 Diabetes research, genetics of nutrition and taste, identifying substructure in genomic summary data, methods to maintain genomic privacy, genetic risk score modeling, single cell genomics, machine learning, and AI prediction models.
+
+### Is it ok to apply if you don’t have a background in genomics? What science backgrounds are you looking for?
+
+Absolutely!  This program is designed to provide experience in genomics. No science background is needed. A background in mathematics or statistics to meet the MS admission requirements in Applied Mathematics or Statistics is needed. We are looking for people who are interested in learning more about genomics research.
+
+### Is there an ethics component to the degree plan?
+
+Yes, there is an ethics required course that Scholars take in their first year. Additionally, we additional ethics-related training courses as part of our monthly seminars.
+
+### Is there a specific deadline for applications and is it rolling admissions or after the deadline?
+
+The deadline for full consideration is February 15th. After the deadline is rolling admission as space is available.
+
+### I'd like to know more about specific coursework, day-to-day life, and what kind of expectations PATH-GDS has for applicants.
+
+Students will complete the standard coursework for the Statistics or Applied Mathematics programs at CU Denver. Three electives will be PATH-GDS specific. The program requirements are listed for the Statistics MS are available [here](
+https://clas.ucdenver.edu/mathematical-and-statistical-sciences/degree-requirements-ms-statistics) and the requirements for the Applied Mathematics MS are [here](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/degree-requirements-ms-applied-mathematics).
+
+Day-to-day, students will go to classes and/or their lab rotations. Students typically try to set their schedule so that they only have classes 2 days per week and can focus on their lab rotations and other responsibilities on the other days.
+
+We expect students to work hard, ask questions, and learn a lot.
+
+### I have never done a research study, what do I need to know beforehand?
+
+Nothing. We will train you in these kinds of skills during orientation, professional development seminars, and during your lab rotations.
+
+### Can you elaborate on what it means for scholars to have mentorship opportunities as both a mentee and mentor?
+
+This program employs near-peer mentoring. You will be mentored by the Directors, lab directors, PhD Students, and 2nd year students. You will in turn mentor undergraduate students in a similar program. We will prepare you to do this successfully.
+
+### What specific skills and experiences do students gain through the PATH-GDS program's coursework, laboratory rotations, and professional development opportunities, and how do these
+prepare them for careers in academia or industry?
+
+Students will learn the mathematical and statistical skills needed to complete their degree programs, training in genomics and ethics, and hands-on research experience in several labs. Students are able to select labs most compatible with their interests and goals. Professional development focuses on things like networking, how to prepare an abstract, give a scientific presentation, create a professional website, as well as training in diversity and inclusion. These are all skills needed in academia and industry.
+
+### What exactly does fully funded mean?
+
+Please see the [Info](https://hendricks-research-team.github.io/PATHGDS/Info.html) page of our website. In
+summary, we will pay for 30 credits of in-state/WICHE tuition (enough to get an MS), student fees, provide a health insurance stipend, and a monthly salary for lab work (about $1500 per month).
+
+### Is the master's fully funded as well or only the fellowship program? Is the masters required to complete the fellowship program?
+
+The MS and fellowship go hand in hand so that you must complete the MS as part of the fellowship and are fully funded while doing so.

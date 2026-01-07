@@ -12,6 +12,8 @@ website:
         text: About
       - href: Apply.qmd
         text: Apply
+      - href: faq.qmd
+        text: FAQs
       - text: "Who we are"
         menu: 
           - Scholars.qmd
@@ -31,7 +33,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 
 

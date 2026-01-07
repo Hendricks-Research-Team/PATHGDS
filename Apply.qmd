@@ -1,9 +1,8 @@
 ---
 title: "How to Apply"
-editor: visual
 ---
 
-# Eligibility for application to the PATH-GDS program:
+## Eligibility
 
 PATH-GDS aims to recruit, train, and retain quantitative MS students in data science-focused biomedical and genomics research, with particular focus on individuals from traditionally underrepresented groups.
 
@@ -17,11 +16,11 @@ Please note that most coursework will be at CU Denver’s Downtown Campus and mo
 
 We encourage you to apply to the program even if you don’t have experience in genetics or genomics as long as you have interest in applying data science to biomedical, genetics, and genomics research.
 
-We particularly encourage you to apply if you have had limited opportunities to learn about statistics and genomics in the past. 
+We particularly encourage you to apply if you have had limited opportunities to learn about statistics and genomics in the past.
 
-# General requirement
+## General requirements
 
-### Intention to enroll into a Master Program
+### Intention to enroll in a Master's Program
 
 In order to be considered for the PATH-GDS program, interested students need to first apply to either the Master's program in Statistics or Applied Mathematics at CU Denver.
 
