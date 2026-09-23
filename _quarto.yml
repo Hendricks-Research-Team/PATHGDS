@@ -8,13 +8,13 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: Info.qmd
-        text: About
+      - href: overview.qmd
+        text: Overview
       - href: Apply.qmd
         text: Apply
       - href: faq.qmd
         text: FAQs
-      - text: "Who we are"
+      - text: People
         menu: 
           - Scholars.qmd
           #- Faculty Mentors.qmd

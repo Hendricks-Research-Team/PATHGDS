@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "PATH-GDS Overview"
 ---
 
 # What is PATH-GDS?
@@ -26,23 +26,23 @@ PATH-GDS offers resources to support its scholars throughout the pathway program
 - Successful students will earn an MS in Statistics or Applied Mathematics in two years.
 - Coursework through the program includes 3 genomics electives (including a course on ethics in biomedical research).
 - Students will attend seminars and workshops in genomics, research, and professional skills
-- Funding provided: \$25/hour for 15 hours of research during the academic year and 40 hrs/week during the summer.
-
+- Funding provided: $1,800 stipend per month during the academic year (prorated in August and May due to start/end dates) and $4,000 per month for full-time research lab employment during the summer between the first and second year of the program.
 - Students will have the opportunity to attend a local or national conference.
 - Students will participate in rotations and research experiences in wet (laboratory based) and dry (computational) genomics labs.
 - Students will gain mentoring experience as both the mentee and mentor.
 
-# 2025-2026 Program Timeline
+# 2027-2028 Program Timeline
 
 | Date | Event |
 |---|---|
-| **February 22, 2026** | Applications Due |
-| **Mid March 2026** | Acceptance into the program |
-| **May 2026** | PATH-GDS Retreat |
-| **Beginning August 2026** | Orientation week |
-| **Mid August 2026** | - MS classes start (Year 1) |
-| | - First 8-week lab rotation |
-| **Mid October 2026** | Second 8-week lab rotation |
-| **Beginning January 2027** | Third 8-week lab rotation |
-| **Mid February 2027** | Start of 17-month lab experience |
-| **Mid May 2027** | End of MS Year 1 |
+| **February 22, 2027** | Applications Due |
+| **Mid March 2027** | Acceptance into the program |
+| **May 2027** | PATH-GDS Symposium |
+| **Mid August 2027** | Orientation week |
+| **Mid August 2027** | - MS classes start (Year 1) |
+| | - First lab rotation |
+| **Late October 2027** | Second lab rotation |
+| **Beginning January 2028** | Third lab rotation |
+| **Late April 2028** | Start long-term lab experience |
+| **Mid May 2028** | End of MS Year 1 |
+
