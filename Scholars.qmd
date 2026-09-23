@@ -77,7 +77,7 @@ Harshini is an MS in Statistics student at CU Denver. She completed her undergra
 
 ::: columns
 ::: {.column width="30%"}
-![](scholars/maxwells.png){width=250px}
+![](scholars/maxwells.jpeg){width=250px}
 :::
 
 ::: {.column width="70%"}
